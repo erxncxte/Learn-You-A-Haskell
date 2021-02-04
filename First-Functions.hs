@@ -11,5 +11,5 @@ doubleSmallNumber' x = (if x > 100 then x else x*2) + 1
 
 
 conanO'Brien = "It's a-me, Conan O'Brien!"
--- Function's can't begin with uppercase letters
+-- Functions can't begin with uppercase letters
 -- This is a definition because there are no parameters
