@@ -1,0 +1,2 @@
+-- Tuples are like lists because they are a way to store several values into a single value
+-- 
